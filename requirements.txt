@@ -1,0 +1,13 @@
+streamlit
+PyMuPDF
+sentence-transformers
+faiss-cpu
+numpy
+python-dotenv
+google-generativeai
+requests
+beautifulsoup4
+lxml
+youtube-transcript-api
+google-auth-oauthlib
+google-api-python-client
